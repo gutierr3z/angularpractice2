@@ -13,3 +13,11 @@ main > section,
 main > section > section {
     background-color: #fff;
 }
+
+footer > section {
+    background-color: #e9e9e9;
+}
+
+footer > section > section {
+    background-color: transparent;
+}
