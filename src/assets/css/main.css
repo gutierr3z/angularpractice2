@@ -2,3 +2,14 @@
 body {
     background-color: #fff;
 }
+
+header > section,
+main > section,
+footer > section {
+    border: 0px;
+}
+
+main > section,
+main > section > section {
+    background-color: #fff;
+}
