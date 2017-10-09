@@ -254,9 +254,9 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
     /* fonts */
-    letter-spacing: 0rem;
+    letter-spacing: -0.03rem;
     font-family: 'Mukta Bold', sans-serif;
-    /* font-weight: bold;  */
+    font-weight: 100;
 }
 
 h1 {
